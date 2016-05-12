@@ -1,0 +1,49 @@
+/*********************
+  NAVIGATION
+**********************/
+
+.top-nav-collapse {
+  background-color: #1C2331;
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  .navbar {
+    background-color: #1C2331;
+  }
+}
+/*********************
+  FOOTER
+**********************/
+footer.page-footer {
+  margin-top: 0;
+  background-color: #1C2331;
+}
+
+/*********************
+  MAIN CAROUSEL
+**********************/
+html,
+body,
+main {
+  height: 100%;
+}
+
+.carousel,
+.item,
+.active {
+  width: 100%;
+}
+
+.carousel-inner {
+  width: 100%;
+}
+.carousel-bg .item video {
+  opacity: 0.6;
+}
+.carousel,
+.item,
+.active {
+    width: 100%;
+    background-color: #000;
+}
